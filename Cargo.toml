@@ -1,0 +1,7 @@
+[package]
+name = "bamcut"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+noodles = { version = "0.77.0", features = ["bam"] }
