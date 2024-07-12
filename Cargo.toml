@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 noodles = { version = "0.77.0", features = ["bam"] }
+noodles-bgzf = { version = "0.31.0", features = ["libdeflate"] }
